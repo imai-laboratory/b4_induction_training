@@ -1,6 +1,1 @@
-# ML\_Bootcamp
-
----
-...
-
-
+# b4_induction_training
