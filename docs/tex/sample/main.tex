@@ -1,0 +1,44 @@
+\documentclass[11pt,a4j]{jarticle}
+
+% パッケージ
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{authblk}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+ 
+% タイトル
+\title{今井研 LaTeXサンプル}
+\date{2020/02/24}
+\author[1]{山田 太郎\thanks{taro.yamada@ailab.ics.keio.ac.jp}}
+\affil[1]{慶應義塾大学理工学部情報工学科}
+
+\begin{document}
+  % タイトル
+  \maketitle
+  
+  % Abstract
+  \begin{abstract}
+     本論文では，...
+  \end{abstract}
+
+  \section{序論}
+    〇〇は△△△分野における未解決問題だ．...
+
+  \section{先行研究}
+    先行研究としては，... これに関連する研究もある．\cite{imai2003physical} ...
+
+  \section{提案手法}
+    ＊＊＊という手法を提案する．
+
+  \section{実験}
+    提案手法の有用性を検証するために，3つの実験を行なった．...
+
+  \section{結論}
+    本論文では，△△△分野における〇〇という問題を，XXXというアプローチで解決した，...
+
+  \bibliography{ref} %hoge.bibから拡張子を外した名前
+  \bibliographystyle{junsrt} %参考文献出力スタイル
+
+\end{document}
+
