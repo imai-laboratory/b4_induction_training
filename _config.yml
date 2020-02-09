@@ -2,8 +2,8 @@ title: ML BootCamp
 description:
     hello
 baseurl: ""
-url: "https://www.ailab.ics.keio.ac.jp/b4_induction_training/"
-# url: "http://imai-laboratory.github.io/b4_induction_training/"
+url: "https://www.ailab.ics.keio.ac.jp/b4_induction_training"
+# url: "http://imai-laboratory.github.io/b4_induction_training"
 
 email: uchiumi@ailab.ics.keio.ac.jp
 twitter_username: jekyllrb
