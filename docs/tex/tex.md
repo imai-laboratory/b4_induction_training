@@ -240,9 +240,9 @@ $ bash compile.sh
 
 <br>
 
+**サンプルコード**
 
-**サンプルファイル**
+Github: [https://github.com/imai-laboratory/b4_induction_training/tree/master/docs/tex/sample](https://github.com/imai-laboratory/b4_induction_training/tree/master/docs/tex/sample) に，LaTeXのサンプルコードがあります．
 
-サンプルファイル[main.tex]({{ site.baseurl }}{% link docs/tex/sample/main.tex %})とシェルスクリプト[compile.sh]({{ site.baseurl }}{% link docs/tex/sample/compile.sh %})をダウンロードして，[main.pdf]({{ site.baseurl }}{% link docs/tex/sample/main.pdf %})を出力してみよう．
-
-
+- main.tex：LaTeXで書かれた本文
+- compile.sh：main.texをコンパイルしてmain.pdfを作成するシェルスクリプト
