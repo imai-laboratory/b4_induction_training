@@ -32,12 +32,20 @@ git version 2.17.1 (Apple Git-112)
 
 
 
-**Githubアカウントの作成**
+**Gitの設定**
+
+Gitをインストールしたときに最初にすべきことは，「ユーザ名とEmailアドレス」を設定することです．全てのGitのコミットはこの情報を用いるため，作成するコミット(後述)でこの情報が参照されます．
 
 ```bash
 $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
 ```
+
+
+
+**Githubアカウントの作成**
+
+[https://github.com/](https://github.com/) へアクセスして，Username・Email・Passwordを入力して「Sign up for GitHub」をクリックすれば完了です．
 
 
 
@@ -115,7 +123,7 @@ $ git branch
 * master
 ```
 
-*がついているのが現在のbranchです。現在のbranchが指しているcommitをRemote RepositoryへPushします。だから`git push origin master`なのです。branchを切り替えるには`git checkout hoge`とします
+「*」がついているのが現在のbranchです。現在のbranchが指しているcommitをRemote RepositoryへPushします。だから`git push origin master`なのです。branchを切り替えるには`git checkout hoge`とします．
 
 ```bash
 $ git checkout hoge
@@ -125,17 +133,23 @@ $ git branch
   master
 ```
 
-branchを変えると何がおいしいのでしょう。たとえば`hoge`でファイルAを追加して何か編集して、commitを作成します。その後に`master`へ戻ると、さきほど作成・編集をしたファイルAが消えてます。なぜなら、`master`はファイルAに関するcommitを作成する前のcommitを指しているからです。`master`が指しているcommitにはファイルAの存在自体がないので、切り替えたら消えるというのは当然といえば当然です。`hoge`の内容を`master`に反映させるにはどうすればよいのでしょうか？
+
+
+では，branchを変えることにはどのような利点があるのでしょうか？
 
 
 
-`git merge hoge`というふうにすれば解決です。このコマンドは、`hoge`を作成した(`master`から分岐させた)ときから、`hoge`が指してきたcommit達を`master`に取り込む(マージ)コマンドです。`git merge hoge`を行うとき、まずgitは`master`が指しているcommitと`hoge`が指しているcommitを比較したあと、色々整合させるための処理をして、 **ひとつのcommit** を作成します。mergeをしたときに作成されたcommitを **merge commit** と呼びます。そして、mergeが完了したらRemote RepositoryへPushしてあげましょう。
-
-当然別々の歴史を持っているので、同じ箇所を編集してしまっていたということもあるでしょう。同じ箇所を編集していて、mergeできない状態を **コンフリクト(Conflict)を起こした** といいます。conflictが起こった場合は、その部分を手動で修正し、`git add`でインデックスに編集内容を追加します。その後、commitを作成します。conflictを起こすと、Gitはmerge commitを作成してくれません(エラー状態なので当たり前ですよね)。あとはそのcommitをPushして終了です．
+たとえば`hoge`でファイルAを追加して何か編集して、commitを作成します．その後に`master`へ戻ると、さきほど作成・編集をしたファイルAが消えてます．なぜなら、`master`はファイルAに関するcommitを作成する前のcommitを指しているからです．`master`が指しているcommitにはファイルAの存在自体がないので、切り替えたら消えるというのは当然といえば当然です．`hoge`の内容を`master`に反映させるにはどうすればよいのでしょうか？
 
 
 
+`git merge hoge`というふうにすれば解決です。このコマンドは、`hoge`を作成した(`master`から分岐させた)ときから、`hoge`が指してきたcommit達を`master`に取り込む(マージ)コマンドです。`git merge hoge`を行うとき、まずgitは`master`が指しているcommitと`hoge`が指しているcommitを比較したあと、色々整合させるための処理をして、 **ひとつのcommit** を作成します。mergeをしたときに作成されたcommitを **merge commit** と呼びます．そして、mergeが完了したらRemote RepositoryへPushしてあげましょう．
 
+当然別々の歴史を持っているので、同じ箇所を編集してしまっていたということもあるでしょう．同じ箇所を編集していて、mergeできない状態を **コンフリクト(Conflict)を起こした** といいます．conflictが起こった場合は、その部分を手動で修正し、`git add`でインデックスに編集内容を追加します．その後、commitを作成します。conflictを起こすと，Gitはmerge commitを作成してくれません(エラー状態なので当たり前ですよね)。あとはそのcommitをPushして終了です．
+
+
+
+**Gitの抽象概念まとめ**
 
 - インデックス(Index)
 
@@ -152,19 +166,15 @@ branchを変えると何がおいしいのでしょう。たとえば`hoge`で�
 
   - あるcommitを指す変数
   - コミット(=変更履歴)の流れを分岐して記録していくためのもの
+    - チェックアウト：ブランチを切り替えること．
     - マージ：2つのブランチを統合すること．
     - コンフリクト：マージ時に変更内容が重複した場合に生じるエラー
-    - チェックアウト：ブランチを切り替えること．
 
 - リポジトリ(Repository)
 
   - Gitでバージョン管理するデータのひとかたまり．
   - ローカルサーバ上にあるリポジトリを「ローカルリポジトリ」という
   - リモートサーバ上にあるリポジトリを「リモートリポジトリ」という
-
-
-
-
 
 
 
