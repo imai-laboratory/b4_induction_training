@@ -7,8 +7,8 @@ nav_order: 3
 
 # Docker
 
-<br>
 
+<br>
 ## Dockerとは？
 
 コンテナ型の仮想環境を作成、配布、実行するためのプラットフォーム．要するに仮想環境の一種（厳密には違う）．
@@ -190,7 +190,16 @@ $ docker build ./ -t example_container
 
 
 
+!!! docker build
+
+- [https://docs.docker.com/engine/reference/commandline/build/](https://docs.docker.com/engine/reference/commandline/build/)]
+
+
+
 
 <br>
 
 ## 参考文献
+
+- [Docker Documentation (日本語)]([http://docs.docker.jp/](http://docs.docker.jp/))
+- [Docker Documentation](https://docs.docker.com/)
