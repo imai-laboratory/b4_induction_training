@@ -22,7 +22,7 @@ macOSには標準でgitがインストールされています．
 ```bash
 $ which git
 /usr/bin/git
-$ $ git --version
+$ git --version
 git version 2.17.1 (Apple Git-112)
 ```
 
