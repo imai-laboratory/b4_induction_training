@@ -173,7 +173,7 @@ DockerでNVIDIA社製のGPUを使いたいときに用いる
 
 
 
-## Dockder file
+## Dockderfile
 
 - イメージを作成するための設定ファイル
 - 用いるイメージや実行するコマンドなどを記述
