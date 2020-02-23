@@ -43,31 +43,28 @@ macOSでは`/bin`の下に，以下のようなシェルコマンドが標準イ
 - C Shell(csh)
   - [TENEX C shell](https://ja.wikipedia.org/wiki/Tcsh) (tcsh)
 
-
+<br>
 
 環境変数`$SHELL`には「現在使っているログインシェルの絶対パス」が登録されています．
-
-ログインシェルとは，「コマンドで指定されない場合に使用するシェル」のこと.
 
 ```bash
 $ echo $SHELL
 /bin/bash
-~/workspace/ml_bootcamp/docs/devops 
 ```
 
 
 
-ログインシェルを変えたい場合は，`chsh`コマンドを使えばOK．
+ログインシェルとは，「コマンドで指定されない場合に使用するシェル」のこと.
+
+※ ログインシェルを変えたい場合は，`chsh`コマンドを使えばOK．
 
 ```bash
 $ chsh -s /bin/zsh # ログインシェルを/bin/bashから/bin/zshへ変更
 ```
 
-
+<br>
 
 シェルコマンドは`cd`や`cat`などの標準コマンドと同様に使えます．
-
-シェル
 
 ```bash
 $ bash --version
