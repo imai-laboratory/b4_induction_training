@@ -12,7 +12,7 @@ gitは，ソースコードなどの変更履歴を記録・追跡できる分�
 
 ![my photo]({{ site.url }}/docs/devops/img/git_github.png)
 
-<img src="{{site.url}}/docs/devops/img/git_github.png">
+<img src="{{ site.url }}/docs/devops/img/git_github.png">
 
 
 
