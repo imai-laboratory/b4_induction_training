@@ -158,6 +158,16 @@ $ git branch
 
 
 
+※ `-u`オプションとは？
+
+ `git push -u origin master` とすると．次回から `git push` だけで「originリポジトリのmasterブランチへpush」してくれる．`-u`は`--set-upstream`の略で，ブランチの上流を指す．
+
+
+
+<br>
+
+
+
 **Gitの抽象概念まとめ**
 
 - インデックス(Index)
