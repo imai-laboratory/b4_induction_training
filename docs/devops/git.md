@@ -10,8 +10,7 @@ nav_order: 2
 gitは，ソースコードなどの変更履歴を記録・追跡できる分散型バージョン管理システムです．
 
 
-<img src="{{site.baseurl}}/docs/devops/img/git_github.png">
-
+<img src="{{site.url}}/docs/devops/img/git_github.png">
 
 
 
@@ -120,8 +119,8 @@ URLの前に`origin`とありますが，これは一体何者でしょうか？
 「最新のcommitを指すポインタ的なもの」が**HEAD**です．HEADをみたら最新のcommitのことなんだなと思いましょう．そして，あるcommitを指す変数を **ブランチ(Branch)** といいます．`master`はGitが最初から用意しているbranchです．branchはいくつでも作ることができます．ブランチについて，詳しくは[こちら](https://backlog.com/ja/git-tutorial/stepup/01/)を参照してください．
 
 
+<img src="{{site.url}}/docs/devops/img/git_branches.png">
 
-![git_branch](img/git_branches.png)
 
 
 

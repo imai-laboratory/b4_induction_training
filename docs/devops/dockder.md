@@ -13,8 +13,7 @@ nav_order: 3
 
 コンテナ型の仮想環境を作成、配布、実行するためのプラットフォーム．要するに仮想環境の一種（厳密には違う）．
 
-
-<img src="{{site.baseurl}}/docs/devops/img/docker_icon.png" width="300">
+<img src="{{site.url}}/docs/devops/img/docker_icon.png" width="300">
 
 
 
@@ -26,7 +25,7 @@ nav_order: 3
 - スクラップ＆ビルドが容易にできる
   - コマンド一つで作れたり消したり
 
-<img src="{{site.baseurl}}/docs/devops/img/VM_Container-680x387.jpg" width="600">
+<img src="{{site.url}}/docs/devops/img/VM_Container-680x387.jpg" width="600">
 
 
 <br>
