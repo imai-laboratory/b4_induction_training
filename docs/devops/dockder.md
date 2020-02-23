@@ -34,9 +34,10 @@ nav_order: 3
 
 - イメージ：アプリケーションの実行環境の雛形
 - コンテナ：アプリケーションの実行環境(実体)
-- イメージをベースにしてコンテナを作成
 
+※ イメージを基にコンテナを作成する．
 
+※ クラス(イメージ)とインスタンス(コンテナ)のような関係．
 
 
 <br>
@@ -71,9 +72,11 @@ nav_order: 3
 $ docker pull ubuntu:latest
 ```
 
-
+<br>
 
 **保存してあるイメージの一覧表示**
+
+`docker image ls`で，起動しているコンテナを一覧表示できる．
 
 ```bash
 $ docker image ls
@@ -82,7 +85,7 @@ ubuntu              latest              47b19964fb50        1 months ago       8
 
 ```
 
-
+<br>
 
 **コンテナの起動**
 
@@ -94,9 +97,9 @@ $ docker run ubuntu
 
 これだとコンテナが起動してすぐ停止する．
 
-→オブションをつける
+→オブションをつける．
 
-
+<br>
 
 ```bash
 $ docker run -it ubuntu
@@ -108,9 +111,11 @@ $ docker run -it ubuntu
   - `-i`：ホスト側からコンテナ側への入力を認める
   - `-t`：コンテナ側からホスト側への入力を認める
 
-
+<br>
 
 **起動しているコンテナの一覧表示**
+
+`docker ps`で，起動しているコンテナを一覧表示できる．STATUSが「Up」と表示されるコンテナは起動中．
 
 ```bash
 $ docker ps -a
@@ -120,15 +125,11 @@ f2f13fd09819        ubuntu:latest       "/bin/bash"         11 months ago       
 
 ```
 
-
-
 オプション
 
 - `-a`：停止してるコンテナも表示
 
-
-
-
+<br>
 
 **コンテナの停止・再開**
 
@@ -150,7 +151,7 @@ $ docker exec -it 94b9e29221aa /bin/bash
 
 
 <br>
-## nvidia-docker
+## Nvidia-docker2
 
 DockerでNVIDIA社製のGPUを使いたいときに用いる
 
@@ -166,8 +167,6 @@ DockerでNVIDIA社製のGPUを使いたいときに用いる
 
 [https://hub.docker.com/](https://hub.docker.com/)
 
-
-
 - 様々なイメージがあるサイト
 - 取得したいイメージを検索
 - 自分で作ったイメージをアップロードも可能
@@ -178,7 +177,7 @@ DockerでNVIDIA社製のGPUを使いたいときに用いる
 
 
 
-## Dockderfile
+## Dockerfile
 
 - イメージを作成するための設定ファイル
 - 用いるイメージや実行するコマンドなどを記述
