@@ -10,6 +10,8 @@ nav_order: 2
 gitは，ソースコードなどの変更履歴を記録・追跡できる分散型バージョン管理システムです．
 
 
+![my photo]({{ site.url }}/docs/devops/img/git_github.png)
+
 <img src="{{site.url}}/docs/devops/img/git_github.png">
 
 
