@@ -6,8 +6,8 @@ url: "https://www.ailab.ics.keio.ac.jp/b4_induction_training"
 # url: "http://imai-laboratory.github.io/b4_induction_training"
 
 email: uchiumi@ailab.ics.keio.ac.jp
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: imailab
+github_username: imai-laboratory
 
 footer_content:
     Copyright &copy; Imai laboratory 2020 Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a>,&nbsp; Proudly hosted by <a target="_blank" href="https://pages.github.com/">GitHub Pages</a>.
