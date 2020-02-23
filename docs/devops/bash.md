@@ -9,9 +9,8 @@ nav_order: 1
 
 動作環境：macOS Mojave 10.14.4
 
+<img src="{{site.baseurl}}/docs/devops/img/bash_logo.png">
 
-
-![bash_logo](img/bash_logo.png)
 
 
 
