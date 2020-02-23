@@ -11,6 +11,8 @@ nav_order: 1
 
 
 
+![bash_logo](img/bash_logo.png)
+
 
 
 ## 1. シェルとは？

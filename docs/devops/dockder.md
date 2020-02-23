@@ -15,6 +15,10 @@ nav_order: 3
 
 
 
+![docker_icon](img/docker_icon.png)
+
+
+
 **従来の仮想環境との差異**
 
 - コード化されたファイルを共有することで、どこでも誰でも同じ環境が作れる
@@ -24,6 +28,10 @@ nav_order: 3
   - コマンド一つで作れたり消したり
 
 
+
+![VM](img/VM_Container-680x387.jpg)
+
+<br>
 
 **イメージとコンテナ**
 
@@ -193,7 +201,6 @@ $ docker build ./ -t example_container
 !!! docker build
 
 - [https://docs.docker.com/engine/reference/commandline/build/](https://docs.docker.com/engine/reference/commandline/build/)]
-
 
 
 
