@@ -205,5 +205,5 @@ $ docker build ./ -t example_container
 
 ## 参考文献
 
-- [Docker Documentation (日本語)](http://docs.docker.jp/](http://docs.docker.jp)
+- [Docker Documentation (日本語)](http://docs.docker.jp)
 - [Docker Documentation](https://docs.docker.com/)
