@@ -9,7 +9,7 @@ nav_order: 1
 
 下記の資料を参考にしてください．
 
-[PDF](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dl/dl_fromscratch.pdf)
+[ゼロからはじまるDeepLearning (PDF)](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dl/dl_fromscratch.pdf)
 
 
 

@@ -10,7 +10,5 @@ permalink: /docs/dl
 
 深層学習入門です．
 
-- [ゼロからはじめるDeepLearning]({{ site.url }}/docs/dl/dl_fromscratch.pdf) 
-
 {: .fs-6 .fw-300 }
 
