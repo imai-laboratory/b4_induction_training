@@ -8,6 +8,6 @@ nav_order: 10
 # Titanic data science solutions
 
 
-- [Kaggle: Titanic data science solutions [日本語訳]]({{ '/docs/ml/titanic_data_science_solutions_jp.html' | relative_url }})
+- [Kaggle: Titanic data science solutions [日本語訳]]({{ site.url }}/docs/ml/titanic_data_science_solutions_jp.html)
 
 
