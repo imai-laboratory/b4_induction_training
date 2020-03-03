@@ -41,6 +41,8 @@ $$
 
 ### 4. 
 
+期待値の線形性を使えばよい．
+
 $$
 \begin{align}
 \bar{X} 
@@ -65,6 +67,7 @@ $$
 ### 5. 
 
 $$\sigma^2$$の対数尤度関数は，
+
 $$
 \begin{align}
 \ell (\sigma^2 | X) 
@@ -74,14 +77,13 @@ $$
 &= - \frac{n}{2} \log 2 \pi \sigma^2 - \frac{\sum_{i=1}^{n} X_i^2}{2 \sigma^2}
 \end{align}
 $$
-だから，これを$$\sigma^2$$に対して微分すると，
 
+だから，これを$$\sigma^2$$に対して微分すると，
 
 $$
 \frac{\partial \ell (\sigma^2 | X) }{\partial \sigma^2}
 = -\frac{n}{2 \sigma^2} + \frac{\sum_{i=1}^{n} X_i^2}{2 \sigma^4}
 $$
-
 
 よって，$$\frac{\partial \ell (\sigma^2 | X) }{\partial \sigma^2} = 0$$を解けば，$$\sigma^2$$の最尤推定量は，$$\frac{\sum_{i=1}^{n} X_i^2}{n}$$ となる．
 
