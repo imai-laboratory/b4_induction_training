@@ -43,6 +43,7 @@ $$
 
 期待値の線形性を使えばよい．
 
+<br>
 $$
 \begin{align}
 \bar{X} 
@@ -59,6 +60,7 @@ V[\bar{X}]
 &= \frac{\sigma^2}{n}
 \end{align}
 $$
+<br>
 
 
 
