@@ -2,8 +2,6 @@
 
 今井研のB4向け新人研修のためのドキュメントページです．
 
-https://www.ailab.ics.keio.ac.jp/b4_induction_training/
-
 ### Update log
 
 - 2020/02/03 - サイト作成
@@ -14,8 +12,7 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
-URL
+- Site<br>
 https://www.ailab.ics.keio.ac.jp/b4_induction_training/
-
-Github
+- Github (source)<br>
 https://github.com/imai-laboratory/b4_induction_training 
