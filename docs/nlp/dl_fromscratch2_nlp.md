@@ -9,7 +9,7 @@ nav_order: 1
 
 下記の資料を参考にしてください．
 
-[自然言語処理入門 (PDF)](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/nlp/nlp_tutorial.pdf)
+[ゼロから作るDeepLearning2 自然言語処理編 (PDF)](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/nlp/dl_fromscratch2_nlp.pdf)
 
 
 
