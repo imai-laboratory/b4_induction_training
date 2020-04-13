@@ -36,7 +36,7 @@ git version 2.17.1 (Apple Git-112)
 
 **Gitの設定**
 
-Gitをインストールしたときに最初にすべきことは，「ユーザ名とEmailアドレス」を設定することです．全てのGitのコミットはこの情報を用いるため，作成するコミット(後述)でこの情報が参照されます．
+Gitを実行環境(ローカルマシン)にインストールしたときに最初にすべきことは，環境変数として「ユーザ名とEmailアドレス」を設定することです．全てのGitのコミットはこの情報を用いるため，作成するコミット(後述)でこの情報が参照されます．
 
 ```bash
 $ git config --global user.email "you@example.com"
@@ -50,8 +50,8 @@ $ git config --global user.name "Your Name"
 [https://github.com/](https://github.com/) へアクセスして，Username・Email・Passwordを入力して「Sign up for GitHub」をクリックすれば完了です．
 
 
-
-
+<br>
+<br>
 
 ## 入門編: インデックス・コミット・リポジトリ
 
@@ -108,7 +108,8 @@ URLの前に`origin`とありますが，これは一体何者でしょうか？
 ローカルで作成したコミット(Commit)をネットワーク上(Githubのサーバ上)のリモートリポジトリに反映させるには，`git push`コマンドを実行する必要があります．「**リモートリポジトリに最新のコミットを反映させる**」コマンドが`git push`になります．
 
 
-
+<br>
+<br>
 
 
 ## 発展編: ブランチ
