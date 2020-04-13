@@ -7,6 +7,12 @@ nav_order: 20
 
 # 演習問題の解答
 
+下記の資料を参考にしてください．
+
+[演習問題の解答(確率・統計) (PDF)](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/stat/ans_practice.pdf)
+
+<br>
+
 ### 1. 確率
 
 疾患の有無を$$B={0,1}$$，陽性/陰性反応を$$A={0,1}$$として，ベイスの定理を適用．解答は$$1/3$$．
