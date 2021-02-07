@@ -12,9 +12,18 @@
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
-1. 内容を変更
 
-2. localhostでサーバを立てて確認
+**編集作業の流れ**
+
+0. ローカルへレポジトリをコピーする．
+
+```
+$ git clone https://github.com/imai-laboratory/b4_induction_training.git
+```
+
+1. `docs`ディレクトリ以下の内容を変更．
+
+2. localhostでサーバを立てて確認．
 
 ```bash
 $ bundle exec jekyll serve
@@ -28,11 +37,11 @@ Configuration file: path/to/b4_induction_training/_config.yml
  Auto-regeneration: enabled for '/path/to/b4_induction_training'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
-[2021-02-07 22:33:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18
-	/Users/user/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpserver.rb:82:in `eof?'
-	/Users/user/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpserver.rb:82:in `run'
-	/Users/user/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/server.rb:307:in `block in start_thread'
 ```
+
+3. `git push`してリモートリポジトリへ変更を反映.
+
+### Links
 
 - Site<br>
 https://www.ailab.ics.keio.ac.jp/b4_induction_training/
