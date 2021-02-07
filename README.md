@@ -18,7 +18,9 @@
 - デザインテーマは[just-the-docs](https://github.com/pmarsceill/just-the-docs)を使っている．
 - サーバは[GitHub Pages](https://pages.github.com/)というGithub公式の無料サービスを使っている．
 
-#### 環境
+#### 準備
+
+以下を使える環境を用意する．
 
 - ruby # スクリプト言語
 - bundle # gemの管理ツール
