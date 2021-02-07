@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'thin'
 gem 'jekyll', '3.8.5'
 gem 'jekyll-feed'
 # gem 'jekyll-jupyter-notebook'
