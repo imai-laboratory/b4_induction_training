@@ -2,23 +2,23 @@
 
 今井研のB4向け新人研修のためのドキュメントページです．
 
-### Update log
+## Update log
 
 - 2020/02/03 - サイト作成
 - 2020/02/11 - ホスティング開始
 - 2020/03/31 - 2020年度の新人研修終了
 
-### For developers
+## For developers
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
-**TL;DR**
+##### TL;DR
 
 - このサイトは，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされている.
 - デザインテーマは[just-the-docs](https://github.com/pmarsceill/just-the-docs)を使っている．
 - サーバは[GitHub Pages](https://pages.github.com/)というGithub公式の無料サービスを使っている．
 
-**環境**
+##### 環境
 
 - ruby # スクリプト言語
 - bundle # gemの管理ツール
