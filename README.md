@@ -12,13 +12,13 @@
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
-##### TL;DR
+#### TL;DR
 
 - このサイトは，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされている.
 - デザインテーマは[just-the-docs](https://github.com/pmarsceill/just-the-docs)を使っている．
 - サーバは[GitHub Pages](https://pages.github.com/)というGithub公式の無料サービスを使っている．
 
-##### 環境
+#### 環境
 
 - ruby # スクリプト言語
 - bundle # gemの管理ツール
@@ -26,7 +26,7 @@
 
 ※ `gem`: rubyのライブラリの総称．
 
-**編集作業の流れ**
+#### 編集作業の流れ
 
 0. ローカルへレポジトリをコピーする．
 
