@@ -12,6 +12,19 @@
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
+**TL;DR**
+
+- このサイトは，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされている.
+- デザインテーマは[just-the-docs](https://github.com/pmarsceill/just-the-docs)を使っている．
+- サーバは[GitHub Pages](https://pages.github.com/)というGithub公式の無料サービスを使っている．
+
+**環境**
+
+- ruby # スクリプト言語
+- bundle # gemの管理ツール
+- jekyll # gem (静的サイトジェネレータ)
+
+※ `gem`: rubyのライブラリの総称．
 
 **編集作業の流れ**
 
@@ -21,7 +34,7 @@
 $ git clone https://github.com/imai-laboratory/b4_induction_training.git
 ```
 
-1. `docs`ディレクトリ以下の内容を変更．
+1. `docs`ディレクトリ以下の内容を変更する．本文はMarkdownファイル．必要な場合，画像やPDFを追加する．
 
 ```
 docs
@@ -41,18 +54,8 @@ docs
 ├── ml
 │   ├── 1.introductiion.md
 │   ├── 2.linear_regression.md
-│   ├── 3.logistic_regression.md
-│   ├── bc_LogisticRegression.html
-│   ├── bc_LogisticRegression.ipynb
-│   ├── boston_LinearRegression.html
-│   ├── boston_LinearRegression.ipynb
-│   ├── function_img_asset.ipynb
-│   ├── img
-│   ├── iris_LogisticRegression.ipynb
-│   ├── ml.md
-│   ├── titanic_data_science_solutions_jp.html
-│   ├── titanic_data_science_solutions_jp.ipynb
-│   └── titanic_dss.md
+│   ├── ...
+│   └── img
 ├── nlp
 │   ├── dl_fromscratch2_nlp.md
 │   ├── dl_fromscratch2_nlp.pdf
@@ -71,16 +74,8 @@ docs
 ├── stat
 │   ├── 1.probability.md
 │   ├── 2.variable_and_expectation.md
-│   ├── 3.prob_distribution.md
-│   ├── 4.sample_theory.md
-│   ├── 5.statistical_inference.md
-│   ├── 6.statistical_test.md
-│   ├── ans_practice.md
-│   ├── ans_practice.pdf
-│   ├── img
-│   ├── stat.md
-│   ├── statistics_guide_tour.md
-│   └── statistics_guide_tour.pdf
+│   ├── ...
+│   └── img
 └── tex
     ├── sample
     └── tex.md
