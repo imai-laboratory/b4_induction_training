@@ -8,6 +8,12 @@
 - 2020/02/11 - ホスティング開始
 - 2020/03/31 - 2020年度の新人研修終了
 
+## Features
+
+- 毎年，新B4向けに行なっている新人研修の内容をWebサイト（ドキュメントページ）としてまとめたもの．
+- 今現在(2021/02)，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされているが，コンテンツは`docs`以下に全てある．他のビルドツール（例えば[sphinx](https://www.sphinx-doc.org/ja/master/)）を使っても良いと思う．
+- Web周りの技術は隆盛が激しいので，各年の運用は担当者に任せる．
+
 ## For developers
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
