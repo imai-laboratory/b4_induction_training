@@ -23,6 +23,70 @@ $ git clone https://github.com/imai-laboratory/b4_induction_training.git
 
 1. `docs`ディレクトリ以下の内容を変更．
 
+```
+docs
+├── devops
+│   ├── bash.md
+│   ├── devops.md
+│   ├── dockder.md
+│   ├── git.md
+│   └── img
+├── dl
+│   ├── dl.md
+│   ├── dl_fromscratch.md
+│   ├── dl_fromscratch.pdf
+│   ├── mnist.md
+│   └── mnist_notebook.html
+├── jekyll
+├── ml
+│   ├── 1.introductiion.md
+│   ├── 2.linear_regression.md
+│   ├── 3.logistic_regression.md
+│   ├── bc_LogisticRegression.html
+│   ├── bc_LogisticRegression.ipynb
+│   ├── boston_LinearRegression.html
+│   ├── boston_LinearRegression.ipynb
+│   ├── function_img_asset.ipynb
+│   ├── img
+│   ├── iris_LogisticRegression.ipynb
+│   ├── ml.md
+│   ├── titanic_data_science_solutions_jp.html
+│   ├── titanic_data_science_solutions_jp.ipynb
+│   └── titanic_dss.md
+├── nlp
+│   ├── dl_fromscratch2_nlp.md
+│   ├── dl_fromscratch2_nlp.pdf
+│   └── nlp.md
+├── nvidia-gpu
+│   ├── cudacudnn.md
+│   ├── nvidia-gpu.md
+│   └── ubuntu.md
+├── python
+│   ├── python.md
+│   ├── python_exercise.md
+│   └── python_tutorial.md
+├── rl
+│   ├── references.md
+│   └── rl.md
+├── stat
+│   ├── 1.probability.md
+│   ├── 2.variable_and_expectation.md
+│   ├── 3.prob_distribution.md
+│   ├── 4.sample_theory.md
+│   ├── 5.statistical_inference.md
+│   ├── 6.statistical_test.md
+│   ├── ans_practice.md
+│   ├── ans_practice.pdf
+│   ├── img
+│   ├── stat.md
+│   ├── statistics_guide_tour.md
+│   └── statistics_guide_tour.pdf
+└── tex
+    ├── sample
+    └── tex.md
+
+```
+
 2. localhostでサーバを立てて確認．
 
 ```bash
