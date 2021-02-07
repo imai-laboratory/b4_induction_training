@@ -1,8 +1,8 @@
 title: BootCamp for B4
 description:
     Training for new B4, Imai Laboratory, Keio University.
-baseurl: "https://www.ailab.ics.keio.ac.jp/b4_induction_training/2020"
-url: "https://www.ailab.ics.keio.ac.jp/b4_induction_training/2020"
+baseurl: ""
+url: "https://www.ailab.ics.keio.ac.jp/b4_induction_training"
 
 email: uchiumi@ailab.ics.keio.ac.jp
 twitter_username: imailab
