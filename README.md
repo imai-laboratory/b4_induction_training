@@ -2,6 +2,8 @@
 
 今井研のB4向け新人研修のためのドキュメントページです．
 
+https://www.ailab.ics.keio.ac.jp/b4_induction_training/
+
 ## Update log
 
 - 2020/02/03 - サイト作成
@@ -11,7 +13,7 @@
 ## Features
 
 - 毎年，新B4向けに行なっている新人研修の内容をWebサイト（ドキュメントページ）としてまとめたもの．
-- 今現在(2021/02)，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされているが，コンテンツは`docs`以下に全てある．他のビルドツール（例えば[sphinx](https://www.sphinx-doc.org/ja/master/)）を使っても良いと思う．
+- 今現在(2021/02)，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされているが，実体(サイトコンテンツ)は`docs`以下に全てある．他のビルドツール（例えば[sphinx](https://www.sphinx-doc.org/ja/master/)）を使っても良いと思う．
 - Web周りの技術は隆盛が激しいので，各年の運用は担当者に任せる．
 
 ## For developers
@@ -92,6 +94,8 @@ docs
 
 2. localhostでサーバを立てて確認．
 
+`bundle exec jekyll serve`コマンドでサーバを立てる．http://127.0.0.1:4000/ をブラウジングして変更を確認．
+
 ```bash
 $ bundle exec jekyll serve
 Configuration file: path/to/b4_induction_training/_config.yml
@@ -107,6 +111,12 @@ Configuration file: path/to/b4_induction_training/_config.yml
 ```
 
 3. `git push`してリモートリポジトリへ変更を反映.
+
+#### バージョン管理，ブランチ運用など
+
+各年度のサイトコンテンツの完成版は`master-xxxx`ブランチで管理する（例: 2020年度のサイトは`master-2020`ブランチで管理）．
+リポジトリの[Settings](https://github.com/imai-laboratory/b4_induction_training/settings) > GitHub Pages > Sourceから，
+どのブランチをデプロイするか，を選択できる．
 
 ### Links
 
