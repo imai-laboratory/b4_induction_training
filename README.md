@@ -36,6 +36,7 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 - jekyll # :gem, 静的サイトジェネレータ(markdownファイルをhtmlに自動変換)
 
 ※ `gem`: rubyのライブラリの総称．
+※ `Gemfile`: 必要なgemのバージョンリストが書かれたファイル．
 
 **macOSの場合**
 
