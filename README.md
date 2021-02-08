@@ -37,6 +37,23 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 
 ※ `gem`: rubyのライブラリの総称．
 
+
+**macOSの場合**
+
+詳しくは，[Jekyll公式ドキュメント](http://jekyllrb-ja.github.io/docs/installation/macos/)を参照してください．
+
+```
+# Rubyをインストールする
+$ brew install ruby # homebrewでrubyをインストール
+$ echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile # pathを追加
+$ ruby -v # チェック
+ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c)
+
+# Jekyllをローカルインストールする
+$ gem install --user-install bundler jekyll
+$ echo 'export PATH="$HOME/.gem/ruby/X.X.X/bin:$PATH"' >> ~/.bash_profile # pathを追加(X.X.Xにはrubyのversionを入れる)
+```
+
 #### 編集作業の流れ
 
 0. ローカルへレポジトリをコピーする．
