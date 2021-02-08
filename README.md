@@ -32,11 +32,10 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 以下を使える環境を用意する．
 
 - ruby # スクリプト言語
-- bundle # gemの管理ツール
-- jekyll # gem (静的サイトジェネレータ)
+- bundler # :gem, gemをまとめて管理するツール(これもgem)
+- jekyll # :gem, 静的サイトジェネレータ(markdownファイルをhtmlに自動変換)
 
 ※ `gem`: rubyのライブラリの総称．
-
 
 **macOSの場合**
 
@@ -52,9 +51,12 @@ $ echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile # path�
 $ ruby -v # チェック
 ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c)
 
-# Jekyllをローカルインストールする
+# bundlerとjekyllをローカルインストールする
 $ gem install --user-install bundler jekyll
 $ echo 'export PATH="$HOME/.gem/ruby/X.X.X/bin:$PATH"' >> ~/.bash_profile # pathを追加(X.X.Xにはrubyのversionを入れる)
+
+# bundleコマンドでGemfileに書かれた必要なgemを一括インストール
+$ bundle install
 ```
 
 #### 編集作業の流れ
