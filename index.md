@@ -21,36 +21,78 @@ permalink: /
 3. 論文を読み，要旨を理解することができる．
 4. 論文を読み，再現実装することができる．
 
+## <font color="Gray">Zoom</font>
+研修は原則対面で実施しますが，オンラインから参加も可能です．  
+**#TODO ここにZoomリンクを貼る**
+
 ## <font color="Gray">Schedule</font>
 
 **Week 1**
 
-- 2/22(月)
-	- 午前10:30-12:30：生活講座, Mac環境構築
-	- 午後13:30-18:00：Git/GitHub, LaTeX
-- 2/23(火)
-	- 午前10:30-12:30：C/Pythonによる文字列処理・ソケット通信
-	- 午後13:30-18:00：C/Pythonによる文字列処理・ソケット通信
-- 2/24(水)
-	- 午前10:30-12:30：機械学習・統計基礎 (狭く深くで内容を検討中)
-	- 午後13:30-18:00：最尤推定とベイズ
-- 2/25(木)
-	- 終日10:30-18:00：アイトラッカー, タンブラー
-- 2/26(金)
-	- 終日10:30-18:00：Sota, NIA
+- 2/22(月) [shibata, morimoto]
+	- 午前10:00-12:00
+		- [環境構築](https://docs.google.com/document/d/1J0yfF-K4TyxxtF3Bf-JJ9MRxl1Y2vTJUZ0p7RKwbkCA/edit?usp=sharing)
+		- [生活講座(係決め)](https://docs.google.com/document/d/1RA3eUeSNBWeJl7RkmOsN_EK5mJ587xRcmDnhkOjjmzo/edit?usp=sharing)
+		- [Slack](https://docs.google.com/presentation/d/1HvdkXMP8r3TTuVCRYEOusSSwR32P1heFaBvs8IU7_zw/edit?usp=sharing)
+		- [教育輪講の論文決定](https://docs.google.com/document/d/131dmmqRl-2mXqdReYvh1WNVjWl_kD86z8aO-DGl8zxY/edit?usp=sharing)
+	- 午後13:00-18:00
+		- [Git/GitHub](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/devops/git.html)
+		- [LaTeX](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/tex)
+		- [C/Pythonによる文字列処理・ソケット通信](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/python)
+- 2/23(火) [uchiumi, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- 最尤推定とベイズ
+	- 午後13:00-18:00
+		- 機械学習の基礎
+		- 機械学習の具体的手法
+		- ディープラーニングの概要
+		- ディープラーニングの手法
+- 2/24(水) [kanazawa, watanabe]
+	- 午前10:00-12:00
+		- アイトラッカー
+	- 午後13:00-18:00
+		- タンブラー
+		- 教育輪講の準備
+- 2/25(木) [imai-sensei, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- kaggle 前半
+	- 午後13:00-18:00
+		- 13:00-14:00 今井先生の講義
+		- kaggle 後半
+
+- 2/26(金) [kaneshige, otsuka, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- Sota
+	- 午後13:00-18:00
+		- NIA
+		- 対話システム開発準備
 
 **Week 2**
 
-- 3/01(月)
-	- 終日10:30-16:00：対話システム開発
-- 3/02(火)
-	- 終日10:30-16:00：対話システム開発
-- 3/03(水)
-	- 終日10:30-16:00：対話システム開発
-- 3/04(木)
-	- 終日10:30-16:00：対話システム開発
-- 3/05(金)
-	- 終日10:30-16:00：対話システム開発
+- 3/01(月) [fukuchi, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- 26-203 引越し手伝い
+	- 午後13:00-16:00
+		- 13:00-14:00 福地さんLT
+		- 対話システム企画決定
+- 3/02(火) [okuoka, seno, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- 対話システム開発
+	- 午後13:00-16:00
+		- 13:00-14:00 奥岡さんLT
+		- 15:00-16:00 妹尾さんLT
+- 3/03(水) [shibata, morimoto, kanazawa, watanabe]
+	- 終日10:00-16:00：対話システム開発
+- 3/04(木) [matsumori, shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- 対話システム開発
+	- 午後13:00-16:00
+		- 13:00-14:00 松森さんLT
+- 3/05(金) [shibata, morimoto, kanazawa, watanabe]
+	- 午前10:00-12:00
+		- 対話システム開発
+	- 午後13:00-16:00
+		- 対話システム発表会
 
 ## <font color="Gray">News</font>
 
