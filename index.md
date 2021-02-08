@@ -21,7 +21,7 @@ permalink: /
 3. 論文を読み，要旨を理解することができる．
 4. 論文を読み，再現実装することができる．
 
-## <font color="Gray">Zoomリンク</font>
+## <font color="Gray">Zoom</font>
 研修は原則対面で実施しますが，オンラインから参加も可能です．  
 **#TODO ここにZoomリンクを貼る**
 
