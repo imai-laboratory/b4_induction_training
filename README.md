@@ -21,13 +21,13 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 
 とりあえず，uchiumi([@yumaloop](https://github.com/yumaloop))に連絡してください．
 
-#### TL;DR
+### TL;DR
 
 - このサイトは，Rubyベースの静的サイトジェネレータ[Jekyll](https://jekyllrb.com/)を使ってビルドされている.
 - デザインテーマは[just-the-docs](https://github.com/pmarsceill/just-the-docs)を使っている．
 - サーバは[GitHub Pages](https://pages.github.com/)というGithub公式の無料サービスを使っている．
 
-#### 準備
+### 準備
 
 以下を使える環境を用意する．
 
@@ -60,7 +60,7 @@ $ echo 'export PATH="$HOME/.gem/ruby/X.X.X/bin:$PATH"' >> ~/.bash_profile # path
 $ bundle install
 ```
 
-#### 編集作業の流れ
+### 編集作業の流れ
 
 0. ローカルへレポジトリをコピーする．
 
@@ -143,13 +143,13 @@ $ git commmit -m "message"
 $ git push origin master-2021
 ```
 
-#### バージョン管理，ブランチ運用など
+## バージョン管理，ブランチ運用など
 
 各年度のサイトコンテンツの完成版は`master-xxxx`ブランチで管理する（例: 2020年度のサイトは`master-2020`ブランチで管理）．
 リポジトリの[Settings](https://github.com/imai-laboratory/b4_induction_training/settings) > GitHub Pages > Sourceから，
 どのブランチをデプロイするか，を選択できる．
 
-### Links
+## Links
 
 - Site<br>
 https://www.ailab.ics.keio.ac.jp/b4_induction_training/
