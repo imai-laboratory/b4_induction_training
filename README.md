@@ -68,7 +68,7 @@ $ bundle install
 $ git clone https://github.com/imai-laboratory/b4_induction_training.git
 ```
 
-1. `docs`ディレクトリ以下の内容を変更する．本文はMarkdownファイル．必要な場合，画像やPDFを追加する．
+1. `docs`ディレクトリ以下の内容を変更する．本文はMarkdownファイル．必要な場合，画像やPDFを追加する．詳しくは，[Jekyll公式ドキュメント](http://jekyllrb-ja.github.io/docs/)を読む．
 
 ```bash
 $ tree .
