@@ -9,6 +9,7 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 - 2020/02/03 - サイト作成
 - 2020/02/11 - ホスティング開始
 - 2020/03/31 - 2020年度の新人研修終了
+- 2020/02/08 - master-2021ブランチ作成．引き継ぎ
 
 ## Features
 
@@ -46,7 +47,8 @@ $ git clone https://github.com/imai-laboratory/b4_induction_training.git
 
 1. `docs`ディレクトリ以下の内容を変更する．本文はMarkdownファイル．必要な場合，画像やPDFを追加する．
 
-```
+```bash
+$ tree .
 docs
 ├── devops
 │   ├── bash.md
@@ -111,6 +113,12 @@ Configuration file: path/to/b4_induction_training/_config.yml
 ```
 
 3. `git push`してリモートリポジトリへ変更を反映.
+
+```bash
+$ git add .
+$ git commmit -m "message"
+$ git push origin master-2021
+```
 
 #### バージョン管理，ブランチ運用など
 
