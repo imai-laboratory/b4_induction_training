@@ -149,6 +149,10 @@ $ git push origin master-2021
 リポジトリの[Settings](https://github.com/imai-laboratory/b4_induction_training/settings) > GitHub Pages > Sourceから，
 どのブランチをデプロイするか，を選択できる．
 
+```bash
+$ git checkout -b master-2099 # 新しいブランチを作成して移動
+```
+
 ## Links
 
 - Site<br>
