@@ -43,6 +43,9 @@ https://www.ailab.ics.keio.ac.jp/b4_induction_training/
 詳しくは，[Jekyll公式ドキュメント](http://jekyllrb-ja.github.io/docs/installation/macos/)を参照してください．
 
 ```
+# Command Line Tools for Xcodeをインストールする
+$ xcode-select --install
+
 # Rubyをインストールする
 $ brew install ruby # homebrewでrubyをインストール
 $ echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile # pathを追加
