@@ -21,6 +21,10 @@ permalink: /
 3. 論文を読み，要旨を理解することができる．
 4. 論文を読み，再現実装することができる．
 
+## <font color="Gray">Entry to Yagami Campus</font>
+矢上キャンパスに入構する場合は，スプレッドシートに日時を記入する必要があります．  
+[入構シート](https://docs.google.com/spreadsheets/d/1kOKQgQ1kD1gJ063VJDWu5r_3kfAwx6rAZsnhuziEpU8/)
+
 ## <font color="Gray">Zoom</font>
 研修は原則対面で実施しますが，オンラインから参加も可能です．  
 **#TODO ここにZoomリンクを貼る**
@@ -62,10 +66,9 @@ permalink: /
 
 - 2/26(金) [kaneshige, otsuka, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
-		- Sota
+		- Pepper
 	- 午後13:00-18:00
 		- NIA
-		- 対話システム開発準備
 
 **Week 2**
 
@@ -90,7 +93,7 @@ permalink: /
 		- 13:00-14:00 松森さんLT
 - 3/05(金) [shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
-		- 対話システム開発
+		- ジェネラルミーティング
 	- 午後13:00-16:00
 		- 対話システム発表会
 
