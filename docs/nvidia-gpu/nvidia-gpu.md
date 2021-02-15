@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NVIDIA GPU
-nav_order: 4
+nav_order: 30
 has_children: true
 permalink: /docs/nvidia-gpu
 ---
