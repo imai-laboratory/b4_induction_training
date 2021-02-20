@@ -25,9 +25,9 @@ permalink: /
 矢上キャンパスに入構する場合は，スプレッドシートに日時を記入する必要があります．  
 [入構シート](https://docs.google.com/spreadsheets/d/1kOKQgQ1kD1gJ063VJDWu5r_3kfAwx6rAZsnhuziEpU8/)
 
-## <font color="Gray">Zoom</font>
+## <font color="Gray">WebEX</font>
 研修は原則対面で実施しますが，オンラインから参加も可能です．  
-**#TODO ここにZoomリンクを貼る**
+[WebEXリンク](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
 
 ## <font color="Gray">Schedule</font>
 
@@ -47,10 +47,10 @@ permalink: /
 	- 午前10:00-12:00
 		- 最尤推定とベイズ
 	- 午後13:00-18:00
-		- 機械学習の基礎
-		- 機械学習の具体的手法
-		- ディープラーニングの概要
-		- ディープラーニングの手法
+		- [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
+		- [機械学習の具体的手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter3.html)
+		- [ディープラーニングの概要](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter5.html)
+		- [ディープラーニングの手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter6.html)
 - 2/24(水) [kanazawa, watanabe]
 	- 午前10:00-12:00
 		- アイトラッカー
