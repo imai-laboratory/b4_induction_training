@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 強化学習
-nav_order: 9
+nav_order: 10
 has_children: true
 permalink: /docs/rl
 ---
