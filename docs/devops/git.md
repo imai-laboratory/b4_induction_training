@@ -5,19 +5,29 @@ parent: DevOps
 nav_order: 2
 ---
 
-# Git
+# Git/GitHub
 
-gitは，ソースコードなどの変更履歴を記録・追跡できる分散型バージョン管理システムです．
+**Gitとは**  
+gitはソースコードなどの変更履歴を記録・追跡できる分散型バージョン管理システムです．
+
+**Gitでなにができる？**
+- 変更の記録
+- 変更履歴の確認
+- 過去の状態に戻す
+
+**GitHubとは**  
+クラウド上でGitを用いたバージョン管理ができるサービスです．  
+
+**GitHubでなにができる？**
+- コードをアップロード
+- どこからでもアクセス可能
+- 複数人で共同開発
 
 <img src="{{ site.url }}/docs/devops/img/git_github.png">
 
-
-
 ## 導入
 
-
-
-**Gitのインストール**
+**Gitのインストール**  
 
 macOSには標準でgitがインストールされています．
 
@@ -43,11 +53,13 @@ $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
 ```
 
-
-
 **Githubアカウントの作成**
 
 [https://github.com/](https://github.com/) へアクセスして，Username・Email・Passwordを入力して「Sign up for GitHub」をクリックすれば完了です．
+
+
+## 手を動かしてみよう
+[ロボ太先生の資料](https://github.com/kaityo256/lab_startup/blob/master/github/README.md)
 
 
 <br>
