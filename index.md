@@ -55,7 +55,7 @@ permalink: /
 	- 午前10:00-12:00
 		- アイトラッカー
 	- 午後13:00-18:00
-		- タンブラー
+		- [タンブラー](https://drive.google.com/file/d/1rT1QfkcWQEsQ3ajypOq242NLrF5TnJ6v/view?usp=sharing)
 		- 教育輪講の準備
 - 2/25(木) [imai-sensei, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
