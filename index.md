@@ -45,7 +45,7 @@ permalink: /
 		- [C/Pythonによる文字列処理・ソケット通信](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/python)
 - 2/23(火) [uchiumi, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
-		- 最尤推定とベイズ
+		- [最尤推定とベイズ](https://drive.google.com/file/d/1lKGGzoTX8_3ue4h4YrPs0z5Zgz7J-4Tx/view?usp=sharing)
 	- 午後13:00-18:00
 		- [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
 		- [機械学習の具体的手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter3.html)
