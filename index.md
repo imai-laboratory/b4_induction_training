@@ -61,7 +61,7 @@ permalink: /
 	- 午前10:00-12:00
 		- kaggle 前半
 	- 午後13:00-18:00
-		- 13:00-14:00 今井先生の講義
+		- 13:00-14:00 [今井先生の講義](https://drive.google.com/file/d/1DQIOJiGe4nIRctc6tkM1lUuSufUaonbD/view?usp=sharing)
 		- kaggle 後半
 
 - 2/26(金) [kaneshige, otsuka, shibata, morimoto, kanazawa, watanabe]
