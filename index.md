@@ -53,7 +53,7 @@ permalink: /
 		- [ディープラーニングの手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter6.html)
 - 2/24(水) [kanazawa, watanabe]
 	- 午前10:00-12:00
-		- アイトラッカー
+		- [アイトラッカー](https://docs.google.com/presentation/d/1T5H-t5PVkjr_Xzy4uugtSXT1NLJ45Mig6zgGE2EeZ7A/edit?usp=sharing)
 	- 午後13:00-18:00
 		- [タンブラー](https://drive.google.com/file/d/1rT1QfkcWQEsQ3ajypOq242NLrF5TnJ6v/view?usp=sharing)
 		- 教育輪講の準備
