@@ -66,7 +66,7 @@ permalink: /
 
 - 2/26(金) [kaneshige, otsuka, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
-		- Pepper
+		- [Pepper](https://docs.google.com/presentation/d/1DzaGYKmhlk0JJFt71uKjwHtIdbj1QPNhfdD24gP4oNU/edit?usp=sharing)
 	- 午後13:00-18:00
 		- [NIA](https://docs.google.com/document/d/1RIH71oJKG_-oPf8TMzsOYZyTXldn5WBvv2Azxlo6plc/edit?usp=sharing)
 
