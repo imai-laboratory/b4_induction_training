@@ -68,7 +68,7 @@ permalink: /
 	- 午前10:00-12:00
 		- Pepper
 	- 午後13:00-18:00
-		- NIA
+		- [NIA](https://docs.google.com/document/d/1RIH71oJKG_-oPf8TMzsOYZyTXldn5WBvv2Azxlo6plc/edit?usp=sharing)
 
 **Week 2**
 
