@@ -77,7 +77,7 @@ permalink: /
 		- 26-203 引越し手伝い
 	- 午後13:00-16:00
 		- 13:00-14:00 福地さんLT (オフライン)
-		- 対話システム企画決定
+		- [対話システム企画決定](https://docs.google.com/presentation/d/16l3pusMdl8IeMmZrmE7wiqnFF5rIB2FGg85FhCzeKZM/edit?usp=sharing)
 - 3/02(火) [okuoka, seno, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
 		- 対話システム開発
