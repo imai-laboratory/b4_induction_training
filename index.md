@@ -85,8 +85,7 @@ permalink: /
 	- 午後13:00-16:00
 		- 対話システム開発
 		- 15:00-16:00 妹尾さんLT (オンライン)
-- 3/03(水) [shibata, morimoto, kanazawa, watanabe]
-	- 終日10:00-16:00：対話システム開発
+- 3/03(水) 休み！！！！キャンパスには入れません！！！！
 - 3/04(木) [matsumori, shibata, morimoto, kanazawa, watanabe]
 	- 午前10:00-12:00
 		- 対話システム開発
