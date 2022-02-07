@@ -120,6 +120,7 @@ docs
 2. localhostでサーバを立てて確認．
 
 `bundle exec jekyll serve`コマンドでサーバを立てる．http://127.0.0.1:4000/ をブラウジングして変更を確認．
+※ruby3系だと上手く動かない可能性があるので注意
 
 ```bash
 $ bundle exec jekyll serve
