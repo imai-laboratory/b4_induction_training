@@ -87,27 +87,27 @@ permalink: /
 - 3/07(月) [seno, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - [Flask アプリケーション企画説明](https://docs.google.com/presentation/d/16l3pusMdl8IeMmZrmE7wiqnFF5rIB2FGg85FhCzeKZM/edit?usp=sharing)
-    - 11:00-12:00 妹尾さん LT (オンライン)
+    - 11:00-12:00 妹尾さん LT ([オンライン](https://keio-students.webex.com/meet/kaon0527arsdrrr))
   - 午後 13:00-16:00
     - [CASPER Tutorial](https://docs.google.com/presentation/d/16l3pusMdl8IeMmZrmE7wiqnFF5rIB2FGg85FhCzeKZM/edit?usp=sharing)
 - 3/08(火) [okuoka, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - Flask アプリケーション開発
   - 午後 13:00-16:00
-    - 13:00-14:00 奥岡さん LT (オンライン)
+    - 13:00-14:00 奥岡さん LT ([オンライン](https://keio-students.webex.com/meet/kaon0527arsdrrr))
     - Flask アプリケーション開発
 - 3/09(水) [fukuchi, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - Flask アプリケーション開発
   - 午後 13:00-16:00
     - Flask アプリケーション開発
-    - 13:00-14:00 福地さん LT (オフライン)
+    - 13:00-14:00 福地さん LT ([オフライン](https://keio-students.webex.com/meet/kaon0527arsdrrr))
 - 3/10(木) [matsumori, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - Flask アプリケーション開発
   - 午後 13:00-16:00
     - Flask アプリケーション開発
-    - 15:00-16:00 松森さん LT (オフライン)
+    - 15:00-16:00 松森さん LT ([オフライン](https://keio-students.webex.com/meet/kaon0527arsdrrr))
 - 3/11(金) [imai-sensei, hasegawa, tsuchiya, inoue, shimoyama]
   - 午後 14:00-15:00
     - Flask アプリケーション発表会
