@@ -57,10 +57,10 @@ permalink: /
   - 午前 10:00-12:00
     - [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
     - [機械学習の具体的手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter3.html)
-    - [ディープラーニングの概要](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter5.html)
-    - [ディープラーニングの手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter6.html)
+    - [ディープラーニングの概要](https://docs.google.com/presentation/d/1QbvB179HnsLqvQEMGg7SKlLGs3sRzdAppSfW8PYeCpI/edit?usp=sharing)
+    - [ディープラーニングの手法](https://docs.google.com/presentation/d/1_mvCk0uAARY7tdAuWQcw7wRouEbjA7PpX4UM3IGzRHY/edit?usp=sharing)
   - 午後 13:00-18:00
-    - [Pytorch Tutorial](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
+    - [Pytorch Tutorial](https://drive.google.com/drive/folders/1IpRenRSeODmH0ECTKWOVMdhAxx0q0bEG?usp=sharing)
 
 **Week 2**
 
