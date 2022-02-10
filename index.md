@@ -45,7 +45,7 @@ permalink: /
 - 2/22(火) [hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - [環境構築](https://docs.google.com/document/d/1J0yfF-K4TyxxtF3Bf-JJ9MRxl1Y2vTJUZ0p7RKwbkCA/edit?usp=sharing)
-    - [生活講座(係決め)](https://docs.google.com/document/d/1RA3eUeSNBWeJl7RkmOsN_EK5mJ587xRcmDnhkOjjmzo/edit?usp=sharing)
+    - [生活講座(係決め)](https://docs.google.com/document/d/1B4rCI8NzUtjvSvfOSsRSM80UlhxbtDNcC1rMJdLYcyc/edit?usp=sharing)
     - [Slack](https://docs.google.com/presentation/d/1HvdkXMP8r3TTuVCRYEOusSSwR32P1heFaBvs8IU7_zw/edit?usp=sharing)
     - [教育輪講の論文決定](https://docs.google.com/document/d/131dmmqRl-2mXqdReYvh1WNVjWl_kD86z8aO-DGl8zxY/edit?usp=sharing)
   - 午後 13:00-18:00
