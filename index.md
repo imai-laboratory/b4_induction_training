@@ -31,7 +31,7 @@ permalink: /
 研修は原則対面で実施しますが，オンラインから参加も可能です．
 
 - 研修全体
-  - [WebEX リンク](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
+  - [zoom リンク](https://zoom.us/j/92515042215?pwd=Rk9vbVNUZkNBeGlWUm5WZEFPRW9mdz09)
 - LT
   - [妹尾さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
   - [奥岡さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
@@ -45,8 +45,8 @@ permalink: /
 - 2/22(火) [hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - [環境構築](https://docs.google.com/document/d/1J0yfF-K4TyxxtF3Bf-JJ9MRxl1Y2vTJUZ0p7RKwbkCA/edit?usp=sharing)
-    - [生活講座(係決め)](https://docs.google.com/document/d/1RA3eUeSNBWeJl7RkmOsN_EK5mJ587xRcmDnhkOjjmzo/edit?usp=sharing)
-    - [Slack](https://docs.google.com/presentation/d/1HvdkXMP8r3TTuVCRYEOusSSwR32P1heFaBvs8IU7_zw/edit?usp=sharing)
+    - [生活講座(係決め)](https://docs.google.com/document/d/1B4rCI8NzUtjvSvfOSsRSM80UlhxbtDNcC1rMJdLYcyc/edit?usp=sharing)
+    - [Slack](https://docs.google.com/presentation/d/1EnqJc72O3MqNlcZf-AU7Vrl5a8EnGVmjAd-q0isZ7IM/edit?usp=sharing)
     - [教育輪講の論文決定](https://docs.google.com/document/d/131dmmqRl-2mXqdReYvh1WNVjWl_kD86z8aO-DGl8zxY/edit?usp=sharing)
   - 午後 13:00-18:00
     - [Git/GitHub](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/devops/git.html)
@@ -57,10 +57,10 @@ permalink: /
   - 午前 10:00-12:00
     - [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
     - [機械学習の具体的手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter3.html)
-    - [ディープラーニングの概要](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter5.html)
-    - [ディープラーニングの手法](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter6.html)
+    - [ディープラーニングの概要](https://docs.google.com/presentation/d/1QbvB179HnsLqvQEMGg7SKlLGs3sRzdAppSfW8PYeCpI/edit?usp=sharing)
+    - [ディープラーニングの手法](https://docs.google.com/presentation/d/1_mvCk0uAARY7tdAuWQcw7wRouEbjA7PpX4UM3IGzRHY/edit?usp=sharing)
   - 午後 13:00-18:00
-    - [Pytorch Tutorial](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
+    - [Pytorch Tutorial](https://drive.google.com/drive/folders/1IpRenRSeODmH0ECTKWOVMdhAxx0q0bEG?usp=sharing)
 
 **Week 2**
 
