@@ -31,7 +31,7 @@ permalink: /
 研修は原則対面で実施しますが，オンラインから参加も可能です．
 
 - 研修全体
-  - [zoom リンク](https://zoom.us/j/92515042215?pwd=Rk9vbVNUZkNBeGlWUm5WZEFPRW9mdz09)
+  - [webex リンク](https://keio-students.webex.com/keio-students/j.php?MTID=mf4230f88c32aadc01ec76375d750f0b1)
 - LT
   - [妹尾さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m26cd6bc421965166c6eb573d90476a66)
   - [奥岡さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m882f4d2348c08b1d730315340a1a78fe)
@@ -72,6 +72,8 @@ permalink: /
     - 教育輪講の準備
 - 3/01(火) [hasegawa, tsuchiya]
   - 午前 10:00-12:00
+    - InClassコンペのページ
+      - https://www.kaggle.com/t/000954a6d172428683c3c09c4a0a6bb0
     - kaggle 前半
   - 午後 13:00-18:00
     - kaggle 後半
