@@ -72,6 +72,8 @@ permalink: /
     - 教育輪講の準備
 - 3/01(火) [hasegawa, tsuchiya]
   - 午前 10:00-12:00
+    - InClassコンペのページ
+      - https://www.kaggle.com/t/000954a6d172428683c3c09c4a0a6bb0
     - kaggle 前半
   - 午後 13:00-18:00
     - kaggle 後半
