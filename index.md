@@ -44,15 +44,15 @@ permalink: /
 
 - 2/22(火) [hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
-    - [環境構築](https://docs.google.com/document/d/1J0yfF-K4TyxxtF3Bf-JJ9MRxl1Y2vTJUZ0p7RKwbkCA/edit?usp=sharing)
+    - [環境構築](https://docs.google.com/document/d/1mniPWc6yAaReyYiHOTIqZQUA8bDn80sR68vUu3vcADc/edit?usp=sharing)
     - [生活講座(係決め)](https://docs.google.com/document/d/1B4rCI8NzUtjvSvfOSsRSM80UlhxbtDNcC1rMJdLYcyc/edit?usp=sharing)
     - [Slack](https://docs.google.com/presentation/d/1EnqJc72O3MqNlcZf-AU7Vrl5a8EnGVmjAd-q0isZ7IM/edit?usp=sharing)
-    - [教育輪講の論文決定](https://docs.google.com/document/d/131dmmqRl-2mXqdReYvh1WNVjWl_kD86z8aO-DGl8zxY/edit?usp=sharing)
+    - [教育輪講の論文決定](https://docs.google.com/document/d/1uwJLSHvreyZiYfX9mkHfxlBiwu6E-PpM1d9R3OFnNJ0/edit?usp=sharing)
   - 午後 13:00-18:00
     - [Git/GitHub](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/devops/git.html)
     - [LaTeX](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/tex)
-    - [仮想環境](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/python)
-    - [Docker](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/python)
+    - [仮想環境](#)
+    - [Docker](#)
 - 2/25(金) [tsuchiya, hasegawa]
   - 午前 10:00-12:00
     - [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
@@ -66,14 +66,14 @@ permalink: /
 
 - 2/28(月) [inoue, shimoyama]
   - 午前 10:00-12:00
-    - [3dprinter](https://docs.google.com/presentation/d/1T5H-t5PVkjr_Xzy4uugtSXT1NLJ45Mig6zgGE2EeZ7A/edit?usp=sharing)
+    - [3dprinter](https://docs.google.com/presentation/d/1LmCIy33uRHKB4NX42C_KYBdcg1ZRBhtYCF_Vigfv63k/edit?usp=sharing)
   - 午後 13:00-18:00
-    - [NLP 学習済みモデルを使ってみよう](https://drive.google.com/file/d/1rT1QfkcWQEsQ3ajypOq242NLrF5TnJ6v/view?usp=sharing)
-    - 教育輪講の準備
+    - [NLP 学習済みモデルを使ってみよう](https://docs.google.com/presentation/d/1oNdA2Ih4rgQCnlezI2UMdGS-Hf2AhVgT-5-UIcW8Os4/edit?usp=sharing)
+      - [教材](https://colab.research.google.com/drive/1Uve4sIMaar5aUlUQIJEtZwB-zRJvsp15?usp=sharing)
 - 3/01(火) [hasegawa, tsuchiya]
   - 午前 10:00-12:00
-    - InClassコンペのページ
-      - https://www.kaggle.com/t/000954a6d172428683c3c09c4a0a6bb0
+    - InClass コンペのページ
+      - [https://www.kaggle.com/t/000954a6d172428683c3c09c4a0a6bb0](https://www.kaggle.com/t/000954a6d172428683c3c09c4a0a6bb0)
     - kaggle 前半
   - 午後 13:00-18:00
     - kaggle 後半
@@ -82,16 +82,16 @@ permalink: /
     - 欠席対応（tsurumoto）
   - 午後 13:00-18:00
     - [Pepper](https://docs.google.com/presentation/d/1DzaGYKmhlk0JJFt71uKjwHtIdbj1QPNhfdD24gP4oNU/edit?usp=sharing)
-    - 16:00-17:00 [今井先生の講義](https://drive.google.com/file/d/1DQIOJiGe4nIRctc6tkM1lUuSufUaonbD/view?usp=sharing)
+    - 16:00-17:00 [今井先生の講義](#)
 
 **Week 3**
 
 - 3/07(月) [seno, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
-    - [Flask アプリケーション企画説明](https://docs.google.com/presentation/d/16l3pusMdl8IeMmZrmE7wiqnFF5rIB2FGg85FhCzeKZM/edit?usp=sharing)
+    - [Flask アプリケーション企画説明](#)
     - 11:00-12:00 妹尾さん LT ([オンライン](https://keio-students.webex.com/keio-students/j.php?MTID=m26cd6bc421965166c6eb573d90476a66))
   - 午後 13:00-16:00
-    - [CASPER Tutorial](https://docs.google.com/presentation/d/16l3pusMdl8IeMmZrmE7wiqnFF5rIB2FGg85FhCzeKZM/edit?usp=sharing)
+    - [CASPER Tutorial](#)
 - 3/08(火) [okuoka, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
     - Flask アプリケーション開発
