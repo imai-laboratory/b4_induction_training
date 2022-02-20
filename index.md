@@ -31,7 +31,7 @@ permalink: /
 研修は原則対面で実施しますが，オンラインから参加も可能です．
 
 - 研修全体
-  - [zoom リンク](https://zoom.us/j/92515042215?pwd=Rk9vbVNUZkNBeGlWUm5WZEFPRW9mdz09)
+  - [webex リンク](https://keio-students.webex.com/keio-students/j.php?MTID=mf4230f88c32aadc01ec76375d750f0b1)
 - LT
   - [妹尾さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
   - [奥岡さん WebEX](https://keio-students.webex.com/keio-students/j.php?MTID=m87d71a15ac4c58269edb38bbbaf20306)
