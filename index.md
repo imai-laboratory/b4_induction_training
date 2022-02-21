@@ -24,7 +24,7 @@ permalink: /
 ## <font color="Gray">Entry to Yagami Campus</font>
 
 矢上キャンパスに入構する場合は，スプレッドシートに日時を記入する必要があります．  
-[入構シート](https://docs.google.com/spreadsheets/d/1kOKQgQ1kD1gJ063VJDWu5r_3kfAwx6rAZsnhuziEpU8/)
+[入構シート](https://docs.google.com/spreadsheets/d/1vAsY-7DoxyLsC6cPYtRJkwLacUECRMmgKNGdCuaNVV8/edit?usp=sharing)
 
 ## <font color="Gray">WebEX</font>
 
@@ -52,7 +52,7 @@ permalink: /
     - [Git/GitHub](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/devops/git.html)
     - [LaTeX](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/tex)
     - [仮想環境](#)
-    - [Docker](#)
+    - [Docker](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/devops/dockder.html)
 - 2/25(金) [tsuchiya, hasegawa]
   - 午前 10:00-12:00
     - [機械学習の基礎](https://www.ailab.ics.keio.ac.jp/b4_induction_training/docs/dlg/chapter2.html)
