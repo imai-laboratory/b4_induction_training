@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 gem 'thin'
-gem 'jekyll', '3.8.5'
+gem 'jekyll'
+gem 'webrick'
+gem 'kramdown-parser-gfm'
 gem 'jekyll-feed'
 # gem 'jekyll-jupyter-notebook'
 
