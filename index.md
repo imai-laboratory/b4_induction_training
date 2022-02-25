@@ -65,8 +65,6 @@ permalink: /
 **Week 2**
 
 - 2/28(月) [inoue, shimoyama]
-  - 午前 10:00-12:00
-    - [3dprinter](https://docs.google.com/presentation/d/1LmCIy33uRHKB4NX42C_KYBdcg1ZRBhtYCF_Vigfv63k/edit?usp=sharing)
   - 午後 13:00-18:00
     - [NLP 学習済みモデルを使ってみよう](https://docs.google.com/presentation/d/1oNdA2Ih4rgQCnlezI2UMdGS-Hf2AhVgT-5-UIcW8Os4/edit?usp=sharing)
       - [教材](https://colab.research.google.com/drive/1Uve4sIMaar5aUlUQIJEtZwB-zRJvsp15?usp=sharing)
@@ -79,7 +77,7 @@ permalink: /
     - kaggle 後半
 - 3/02(水) [imai-sensei, inoue, shimoyama]
   - 午前 10:00-12:00
-    - 欠席対応（tsurumoto）
+    - [3dprinter](https://docs.google.com/presentation/d/1LmCIy33uRHKB4NX42C_KYBdcg1ZRBhtYCF_Vigfv63k/edit?usp=sharing)
   - 午後 13:00-18:00
     - [Pepper](https://docs.google.com/presentation/d/1DzaGYKmhlk0JJFt71uKjwHtIdbj1QPNhfdD24gP4oNU/edit?usp=sharing)
     - 16:00-17:00 [今井先生の講義](#)
