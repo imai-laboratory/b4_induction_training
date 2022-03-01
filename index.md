@@ -79,7 +79,7 @@ permalink: /
   - 午前 10:00-12:00
     - [3dprinter](https://docs.google.com/presentation/d/1LmCIy33uRHKB4NX42C_KYBdcg1ZRBhtYCF_Vigfv63k/edit?usp=sharing)
   - 午後 13:00-18:00
-    - [Pepper](https://docs.google.com/presentation/d/1DzaGYKmhlk0JJFt71uKjwHtIdbj1QPNhfdD24gP4oNU/edit?usp=sharing)
+    - [Pepper](https://docs.google.com/presentation/d/1DH-bk8Wr9gDuxmKENSkHVO1ARXvdUXWN04DMH3B6jDE/edit?usp=sharing)
     - 16:00-17:00 [今井先生の講義](#)
 
 **Week 3**
