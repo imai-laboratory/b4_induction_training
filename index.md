@@ -85,10 +85,12 @@ permalink: /
 **Week 3**
 
 - 3/07(月) [seno, hasegawa, tsuchiya, inoue, shimoyama]
-  - 午前 10:00-12:00
-    - [Flask アプリケーション企画説明](#)
-    - 11:00-12:00 妹尾さん LT ([オンライン](https://keio-students.webex.com/keio-students/j.php?MTID=m26cd6bc421965166c6eb573d90476a66))
+  - 午前 09:30-12:00
+    - 09:30-12:00 妹尾さん LT ([オンライン](https://keio-students.webex.com/keio-students/j.php?MTID=m26cd6bc421965166c6eb573d90476a66))
+    - [Flask アプリケーション企画説明](https://docs.google.com/presentation/d/1iommp8KA0upLXN393nVL0OlCCwwR_Y3KiX3Ik-8oAYk/edit?usp=sharing)
+    - [Flask tutorial](https://docs.google.com/document/d/19Q7OSzaZ94xQctVZ4wtr_-EuIrp2_0deODPxzLMIRfM/edit)
   - 午後 13:00-16:00
+    - [Flask tutorial](https://docs.google.com/document/d/19Q7OSzaZ94xQctVZ4wtr_-EuIrp2_0deODPxzLMIRfM/edit)
     - [CASPER Tutorial](#)
 - 3/08(火) [okuoka, hasegawa, tsuchiya, inoue, shimoyama]
   - 午前 10:00-12:00
@@ -107,7 +109,7 @@ permalink: /
     - Flask アプリケーション開発
   - 午後 13:00-16:00
     - Flask アプリケーション開発
-    - 15:00-16:00 松森さん LT ([オフライン](https://keio-students.webex.com/keio-students/j.php?MTID=m69f22b0f39840312edce63a75ee1eb2b))
+    - 15:00-16:00 松森さん LT ([オンライン](https://keio-students.webex.com/keio-students/j.php?MTID=m69f22b0f39840312edce63a75ee1eb2b))
 - 3/11(金) [imai-sensei, hasegawa, tsuchiya, inoue, shimoyama]
   - 午後 14:00-15:00
     - Flask アプリケーション発表会
