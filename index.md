@@ -111,7 +111,7 @@ permalink: /
     - Flask アプリケーション開発
     - 15:00-16:00 松森さん LT ([オンライン](https://keio-students.webex.com/keio-students/j.php?MTID=m69f22b0f39840312edce63a75ee1eb2b))
 - 3/11(金) [imai-sensei, hasegawa, tsuchiya, inoue, shimoyama]
-  - 午後 14:00-15:00
+  - 午後 15:00-16:00
     - Flask アプリケーション発表会
 
 ## <font color="Gray">News</font>
